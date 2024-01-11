@@ -68,3 +68,9 @@ input {
   text-align: center;
   background-color: #151f30;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: 100vw;
+}
